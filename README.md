@@ -6,7 +6,12 @@
 
 ---
 
-Im a big fan
+### :zap: Interests
+Some things I'm into 🥵
+- gaming 🎮
+- food 🥵🍜😩
+- anime 🦑
+
 ---
 
 
