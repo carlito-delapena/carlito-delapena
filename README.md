@@ -1,10 +1,12 @@
 ### Hi there 👋
+---
+Im a big fan
+---
+
 
 <!--
 **carlito-jdp/carlito-jdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### :factory: Tech Stack && Tools
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
