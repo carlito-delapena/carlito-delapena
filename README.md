@@ -12,6 +12,8 @@ Some things I'm into 🥵
 - food 🥵🍜😩
 - anime 🦑
 
+---
+
 ### Techstacks & Tools taught and used 🧰
 <p >
  <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
@@ -29,4 +31,9 @@ Some things I'm into 🥵
  <img src=https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png alt="Jest" height="40" style="vertical-align:top; margin:4px">
   <img src=https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png alt="Cypress" height="40" style="vertical-align:top; margin:4px">
 </p>
---- 
+
+---
+### GitHub Stats 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlito-jdp&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlito-jdp&show_icons=true&theme=tokyonight)
+
