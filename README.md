@@ -1,5 +1,5 @@
 <strong>Hello World, I'm CJ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></strong>
-
+<img align="right" alt="GIF" src="https://github.com/carlito-jdp/carlito-jdp/blob/main/coding.gif" width="500" height="320" />
 ---
 
 - ✍ You can find my portfolio <a href="https://carlito-jdp.com/">here</a>
