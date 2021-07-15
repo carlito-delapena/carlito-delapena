@@ -7,9 +7,9 @@
 ---
 
 ### :zap: Interests
-Some things I'm into 🥵
+Some things I'm into
 - gaming 🎮
-- food 🥵🍜😩
+- food 🍜
 - anime 🦑
 
 ---
