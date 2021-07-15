@@ -1,6 +1,5 @@
 <strong>Hello World, I'm CJ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></strong>
 
-
 ---
 
 **about:**
