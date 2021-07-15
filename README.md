@@ -1,16 +1,12 @@
-<p align="center">
-  Hey there!🤓
-  </br>
-  My name is Carlito, but feel free to call me CJ.😄
-</p>
+<strong>Hello World, I'm CJ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></strong>
 
 ---
 
-### :zap: Interests
-Some things I'm into
-- gaming 🎮
-- food 🍜
-- anime 🦑
+- ✍ You can find my portfolio <a href="https://carlito-jdp.com/">here</a>
+- 🌱 I’m currently learning and using React, TypeScript and Java
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 ---
 
