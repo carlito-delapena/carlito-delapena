@@ -41,5 +41,5 @@
 ---
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlito-jdp&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlito.jdp&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlito-jdp&theme=tokyonight)
